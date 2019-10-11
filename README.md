@@ -1,5 +1,4 @@
-# Code Assessment
-## Hello Expel, I've built a calculator with Vue.js
+# Calculator built with Vue.js
 
 ## Install Vue
 ```
@@ -9,7 +8,7 @@ $ npm install vue
 ### Run the application
 ```
 Clone the project
-cd into Calc folder
+cd to "Calc" folder
 npm run serve
 localhost 8080
 ```
