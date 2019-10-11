@@ -1,18 +1,17 @@
-# calc
+# Code
+## Hello Expel, I've built a calculator with Vue.js
 
-## Project setup
+## Install Vue
 ```
-npm install
+$ npm install vue
 ```
 
-### Compiles and hot-reloads for development
+### Run the application
 ```
+Clone the project
+cd into Calc folder
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+localhost 8080
 ```
 
 ### Run your tests
