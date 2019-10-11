@@ -1,4 +1,4 @@
-# Code
+# Code Assessment
 ## Hello Expel, I've built a calculator with Vue.js
 
 ## Install Vue
